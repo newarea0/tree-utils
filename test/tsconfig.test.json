@@ -1,0 +1,12 @@
+{
+  "extends": "../ts.config.json",
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "esModuleInterop": true
+  },
+  "include": ["**/*.test.ts"],
+  "ts-node": {
+    "transpileOnly": true
+  }
+}
