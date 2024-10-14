@@ -1,6 +1,5 @@
 {
-  "name": "tree-utils",
-  "type": "module",
+  "name": "@newarea/tree-utils",
   "version": "0.0.1",
   "description": "一些树结构数据（数组、对象）操作的工具函数",
   "author": "https://github.com/newarea0",
@@ -65,6 +64,7 @@
     "vuepress": "^1.9.9"
   },
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
   "mocha": {
