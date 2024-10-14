@@ -1,6 +1,6 @@
 {
   "name": "@newarea/tree-utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "一些树结构数据（数组、对象）操作的工具函数",
   "author": "https://github.com/newarea0",
   "license": "MIT",
